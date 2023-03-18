@@ -11,7 +11,7 @@ export default function Home() {
         </div>
         <Link
           className="border rounded-sm px-8 py-2 text-xl font-medium"
-          href={"/home"}
+          href={"/convert"}
         >
           <p>Try now</p>
         </Link>
